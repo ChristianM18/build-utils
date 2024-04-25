@@ -1,0 +1,1 @@
+{"version":3,"file":"math.js","sources":["../src/math.ts"],"sourcesContent":["export function sayHello() {\r\n    console.log(\"Hello\");\r\n}\r\n"],"names":[],"mappings":"SAAgB,QAAQ,GAAA;AACpB,IAAA,OAAO,CAAC,GAAG,CAAC,OAAO,CAAC,CAAC;AACzB;;;;"}

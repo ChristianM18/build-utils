@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../../src/color/index.ts"],"sourcesContent":["export * from \"./rgb\";\r\n\r\nexport function sayFavoriteColor(color: string) {\r\n    console.log(`My favorite color is ${color}`);\r\n}\r\n"],"names":[],"mappings":";;AAEM,SAAU,gBAAgB,CAAC,KAAa,EAAA;AAC1C,IAAA,OAAO,CAAC,GAAG,CAAC,wBAAwB,KAAK,CAAA,CAAE,CAAC,CAAC;AACjD;;;;"}
